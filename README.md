@@ -1,2 +1,2 @@
 # labelImg
-Image notation
+Image annotation
